@@ -150,7 +150,6 @@ Add screenshots in the ```/screenshots``` folder and display them like this:
 
 ```
 ![Dashboard Preview](screenshots/dashboard-overview.png)
-
 ```
 
 ***
@@ -174,7 +173,7 @@ Add screenshots in the ```/screenshots``` folder and display them like this:
 
 ***
 
-##**🔮 Future Improvements**
+**##🔮 Future Improvements**
 
 
 •Build Python-based ETL pipeline
