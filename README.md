@@ -1,8 +1,8 @@
 ***
-#**📊 Customer Support Ticket Analysis**
+# 📊 Customer Support Ticket Analysis
 
 
-##**📌 Project Overview**
+## 📌 Project Overview
 
 This project analyzes customer support ticket data using SQL and Power BI to uncover operational trends, customer satisfaction patterns, and ticket resolution performance.
 
@@ -22,7 +22,7 @@ The goal of this project is to demonstrate:
 
 ***
 
-##**🔎 Key Insights**
+## 🔎 Key Insights
 
 •Identified differences in ticket resolution times across priority levels
 
@@ -36,7 +36,7 @@ The goal of this project is to demonstrate:
 
 ***
 
-##**🛠️ Tools Used**
+## 🛠️ Tools Used
 
 •SQL (SQLite)
 
@@ -48,7 +48,7 @@ The goal of this project is to demonstrate:
 
 ***
 
-##**📂 Dataset**
+## 📂 Dataset
 
 The dataset contains customer support ticket records, including:
 
@@ -66,7 +66,7 @@ Dataset used is a sample/Kaggle dataset for learning and portfolio purposes.
 
 ***
 
-##**🧹 Data Cleaning Process**
+## 🧹 Data Cleaning Process
 
 A SQL view ```(clean_customer_tickets)``` was created to ensure data quality and consistency.
 
@@ -98,7 +98,7 @@ END AS age_group;
 ***
 
 
-##**📁 Project Structure**
+## 📁 Project Structure
 
 ```
 ├── data/
@@ -115,7 +115,7 @@ END AS age_group;
 
 ***
 
-##**🚀 How to Run This Project**
+## 🚀 How to Run This Project
 
 ```bash
 1. Clone repository
@@ -143,7 +143,7 @@ cd customer-support-analysis
 
 ***
 
-##**📸 Dashboard Preview**
+## 📸 Dashboard Preview
 
 
 Add screenshots in the ```/screenshots``` folder and display them like this:
@@ -154,7 +154,7 @@ Add screenshots in the ```/screenshots``` folder and display them like this:
 
 ***
 
-##**💡 Skills Demonstrated**
+## 💡 Skills Demonstrated
 
 
 •SQL data cleaning and transformation
@@ -173,7 +173,7 @@ Add screenshots in the ```/screenshots``` folder and display them like this:
 
 ***
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 
 •Build Python-based ETL pipeline
